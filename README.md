@@ -5,17 +5,6 @@ The challenge entails analyzing district-wide standardized test results for a ci
 
 Using Pandas and Jupyter Notebook, you'll generate comprehensive reports that highlight various aspects of school performance. These reports will include district-wide summaries, school-level metrics, and insights derived from students' math and reading scores alongside school-related data. The ultimate goal is not just to present raw data, but to extract meaningful narratives that inform strategic decisions aimed at enhancing educational outcomes and fostering a brighter future for the city's students.
 
-## Before You Begin
-Create a new repository for this project called pandas-challenge.
-
-Clone the new repository to your computer.
-
-Inside your local Git repository, create a folder for this homework assignment and name it PyCitySchools.
-
-Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
-
-Push these changes to GitHub or GitLab.
-
 ## Instructions
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
